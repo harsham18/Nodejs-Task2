@@ -1,0 +1,49 @@
+const User=[
+    {
+        id:1295,
+        login:"harsham18",
+        password:"harsha0",
+        age:22,
+        isDeleted:false,
+    },
+    {
+        id:1265,
+        login:"akash90",
+        password:"akash0",
+        age:24,
+        isDeleted:false,
+    },
+    {
+        id:1281,
+        login:"manvith81",
+        password:"manvith0",
+        age:21,
+        isDeleted:false,
+    },
+    {
+        id:1284,
+        login:"saik18",
+        password:"saikrish0",
+        age:22,
+        isDeleted:false,
+    },
+    {
+        id:1297,
+        login:"gagans18",
+        password:"gagan0",
+        age:22,
+        isDeleted:true,
+    },
+    {
+        id:1290,
+        login:"sairam11",
+        password:"sairam0",
+        age:25,
+        isDeleted:false,
+    }
+
+]
+
+module.exports={
+    User:User,
+}
